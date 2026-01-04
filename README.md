@@ -1,1 +1,1 @@
-# Retail_Dashboard_PowerBi
+This repository contains problem statement, data files and completed pbix file I had created for case study round for one of the top three consultance firm. The attached data is a sample one and no personal/proffesional information has been revealed in this repo.
